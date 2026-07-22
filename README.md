@@ -3,12 +3,11 @@
 <div align="center">
 
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=22C55E&center=true&vCenter=true&width=650&lines=Building+beautiful+UIs+with+React+%F0%9F%92%9A;Turning+ideas+into+real+web+experiences+%F0%9F%9A%80;Final+year+dev%2C+ready+to+make+an+impact+%F0%9F%8C%9F;Open+to+Internships+%26+Fresher+Roles+%F0%9F%99%8C)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Shreta+Rai+%F0%9F%91%8B;Final+Year+B.Tech+IT+Student+%F0%9F%8E%93)](https://git.io/typing-svg)
 
 [![GitHub followers](https://img.shields.io/github/followers/shretarai7?label=Followers&style=social)](https://github.com/shretarai7)
 &nbsp;
-[![Profile views](https://komarev.com/ghpvc/?username=Preeti529&label=Profile%20Views&color=22c55e&style=flat)](https://github.com/shretarai7)
+[![Profile views](https://komarev.com/ghpvc/?username=shretarai7&label=Profile%20Views&color=22c55e&style=flat)](https://github.com/shretarai7)
 
 </div>
 
